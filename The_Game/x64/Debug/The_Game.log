@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\youss\OneDrive\Desktop\Crazy Choice\The_Game\Source.cpp(38,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\youss\OneDrive\Desktop\Crazy Choice\The_Game\Source.cpp(60,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\youss\OneDrive\Desktop\Crazy Choice\The_Game\Source.cpp(60,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\youss\OneDrive\Desktop\Crazy Choice\The_Game\Source.cpp(69,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\youss\OneDrive\Desktop\Crazy Choice\The_Game\Source.cpp(85,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\youss\OneDrive\Desktop\Crazy Choice\The_Game\Source.cpp(101,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\youss\OneDrive\Desktop\Crazy Choice\The_Game\Source.cpp(117,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  The_Game.vcxproj -> C:\Users\youss\OneDrive\Desktop\Crazy Choice\x64\Debug\The_Game.exe
