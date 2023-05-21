@@ -1,2 +1,2 @@
-# c++ Game
+# C++ Game
 ## Crazy Choice [ SFML Library ]  
